@@ -134,10 +134,14 @@ if __name__ == "__main__":
 ```
 ## OUTPUT
 SERVER SIDE :
+
+
 <img width="724" height="115" alt="Screenshot 2026-08-17 191518" src="https://github.com/user-attachments/assets/e60db20b-cb8a-48a2-a1cf-c3459115d259" />
 
 
 CLIENT SIDE :
+
+
 <img width="676" height="618" alt="Screenshot 2026-08-17 191456" src="https://github.com/user-attachments/assets/6dda7cb2-0e7a-4c4f-accd-9b3c88239dd5" />
 
 
